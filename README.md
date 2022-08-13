@@ -4,6 +4,7 @@
   <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MauriMenezes&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="mau-me" />
  </div>
  <h3>No momento estou aprendendo bastante sobre desenvolvimento java.</h3>
+Se quiser conversar sobre algum projeto 📫 mauriliosm25@gmail.com
 
 
 <div style="display: inline_block"><br>
