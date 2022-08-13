@@ -1,8 +1,10 @@
 <div align="center">
 <h1 align="center">E ai, Tudo Blz? Me Chamo Maurílio Menezes</h1>
+ 
+ <div>
   <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=MauriMenezes&show_icons=true&theme=github_dark&locale=en" alt="mau-me" />
   <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MauriMenezes&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="mau-me" />
- </div>
+</div>
  <h3>No momento estou aprendendo bastante sobre desenvolvimento java.</h3>
 Se quiser conversar sobre algum projeto 📫 mauriliosm25@gmail.com
 
