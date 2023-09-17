@@ -27,10 +27,6 @@ Se quiser conversar sobre algum projeto 📫 mauriliosm25@gmail.com
   ##
 
 <div> 
-
-  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:karlasilvaeng@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/karlasilva-eng/)
-[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord&logoColor=FF00F6&color:FFF)](https://discord.gg/wHqCcA24za)
   <a href="https://www.linkedin.com/in/maurilio-souza-menezes-b615ba234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
