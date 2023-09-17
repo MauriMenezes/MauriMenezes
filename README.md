@@ -5,9 +5,9 @@
   
   <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MauriMenezes&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="mau-me" />
 </div>
-    <p>💻 desenvolvedor  Back-End </p>
+    <p>💻 Desenvolvedor  Back-End </p>
 <p>
- 🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End na Cubos Academy
+ 🎓 Estudanto Desenvolvimento de Software com Foco em Back-End na Cubos Academy
 </p>
 
 
