@@ -5,6 +5,7 @@
   
   <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MauriMenezes&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="mau-me" />
 </div>
+    Eu sou um desenvolvedor  Back-End 
 🎓 Eu estudo  [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2)
 
 
@@ -30,6 +31,7 @@
   ##
 
 <div> 
+ <a href="https://instagram.com/menezesms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maurilio-souza-menezes-b615ba234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
